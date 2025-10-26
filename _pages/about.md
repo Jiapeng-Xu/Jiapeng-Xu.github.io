@@ -23,7 +23,7 @@ Hi all, I am **Jiapeng Xu (徐佳鹏)**. I am currently a PhD candidate at the M
 
 I hold a Master's degree in Statistics from Columbia University and a Bachelor's degree in Financial Mathematics, jointly awarded by the University of Liverpool and Xi'an Jiaotong-Liverpool University (XJTLU).
 
-My research focuses on **Clinical Trial Design**, particularly in areas such as **Early Phase Dose-Finding Designs**, **Adaptive Designs**, and **Historical Data Borrowing**. 
+My research focuses on **Clinical Trial Design**, particularly in areas such as **Early Phase Dose-Finding Trials**, **Adaptive Designs**, and **Historical Data Borrowing**. 
 
 The overall goal of my work is to develop novel and rigorous statistical methodologies that enhance the efficiency of clinical trials (i.e., reducing enrolled patients, duration, and cost), thereby accelerating medical decision-making and ultimately benefiting patients in need.
 
