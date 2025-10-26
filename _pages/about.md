@@ -31,21 +31,13 @@ The overall goal of my work is to develop novel and rigorous statistical methodo
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 -->
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## Journal Articles
+**Xu, J.**, Eijk, R. P. V., Ellis, A., Pan, T., Nelson, L. M., Roes, K. C., ... & Lu, Y. (2025). [On the two-step hybrid design for augmenting randomized trials using real-world data.](https://www.tandfonline.com/doi/full/10.1080/19466315.2025.2547855) *Statistics in biopharmaceutical research*, 1-24.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## Book Chapters
+Fan, S., Lee, B. L., Lu, Y., & **Xu, J.** (2024). [Monotonic Dose–Response and Curve-Free Designs for Phase I Dose-Finding Trials.](https://link.springer.com/chapter/10.1007/978-3-031-67110-4_6) In *Dose Finding and Beyond in Biopharmaceutical Development* (pp. 127-160). Cham: Springer Nature Switzerland.
 
 <!---
 # 🎖 Honors and Awards
