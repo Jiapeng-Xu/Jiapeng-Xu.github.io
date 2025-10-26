@@ -48,15 +48,15 @@ Fan, S., Lee, B. L., Lu, Y., & **Xu, J.** (2024). [Monotonic Dose–Response and
 -->
 
 # 💼 Employments and Internships
-- *Apr 2023 - Apr 2025*, Biostatistician, Stanford University, Stanford, California, USA
-- *Jun 2022 - Sep 2022*, Data Science Intern, Stable, New York City, New York, USA
-- *Sep 2020 - Jul 2021*, Data Analysis Intern, PwC, Shanghai, China
+- *Apr 2023 - Apr 2025*, Biostatistician, Stanford University
+- *Jun 2022 - Sep 2022*, Data Science Intern, Stable USA Inc
+- *Sep 2020 - Jul 2021*, Data Analysis Intern, PwC Mainland China and Hong Kong
 
 # 📖 Educations
-- *Oct 2025 - Present*, PhD in Biostatistics, University of Cambridge, Cambridge, UK
-- *Sep 2021 - Feb 2023*, Master's in Statistics, Columbia University, New York City, New York, USA
-- *Sep 2018 - Jul 2020*, BS in Mathematics with Finance, University of Liverpool, Liverpool, UK
-- *Sep 2016 - Jul 2018*, BS in Financial Mathematics, Xi'an Jiaotong-Liverpool University (XJTLU), Suzhou, China
+- *Oct 2025 - Present*, PhD in Biostatistics, University of Cambridge
+- *Sep 2021 - Feb 2023*, Master's in Statistics, Columbia University
+- *Sep 2018 - Jul 2020*, BS in Mathematics with Finance, University of Liverpool
+- *Sep 2016 - Jul 2018*, BS in Financial Mathematics, Xi'an Jiaotong-Liverpool University (XJTLU)
 
 # 🤖 Softwares
 - [A R Shiny Application for Monotonic Dose-Response and Curve-Free Designs in Phase I Dose-Finding Trials](https://cisd-stanford.shinyapps.io/CurveFreeDesigns/)
