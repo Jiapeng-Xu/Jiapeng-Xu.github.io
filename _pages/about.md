@@ -35,7 +35,9 @@ Coming Soon!
 
 ## Journal Articles
 **Xu, J.**, Eijk, R. P. V., Ellis, A., Pan, T., Nelson, L. M., Roes, K. C., ... & Lu, Y. (2025). [On the two-step hybrid design for augmenting randomized trials using real-world data.](https://www.tandfonline.com/doi/full/10.1080/19466315.2025.2547855) *Statistics in biopharmaceutical research*, 1-24.
+
 **Xu, J.**, Bi, D., Fan, S. K., Lee, B. L., & Lu, Y. (preprint). [Balancing the effective sample size in prior across different doses in the curve-free Bayesian decision-theoretic design for dose-finding trials.](https://arxiv.org/abs/2503.16321) *arXiv preprint* arXiv:2503.16321.
+
 Chang, C. T., Farah, H., Gui, H., Rezaei, S. J., Bou-Khalil, C., Park, Y. J., ... & **Xu, J.**, Daneshjou, R. (2025). [Red teaming ChatGPT in medicine to yield real-world insights on model behavior.](https://www.nature.com/articles/s41746-025-01542-0) *npj Digital Medicine*, 8(1), 149.
 
 ## Book Chapters
