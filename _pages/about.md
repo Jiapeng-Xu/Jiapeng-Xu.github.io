@@ -27,11 +27,9 @@ My research focus on **Clinical Trial Design**, particularly in areas such as **
 
 The overall goal of my work is to develop novel and rigorous statistical methodologies that enhance the efficiency of clinical trials (i.e., reducing enrolled patients, duration and cost), thereby accelerating medical decision-making and ultimately benefiting patients in need.
 
-<!---
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
--->
+
+Coming Soon!
 
 # 📝 Publications
 
@@ -47,17 +45,17 @@ Fan, S., Lee, B. L., Lu, Y., & **Xu, J.** (2024). [Monotonic Dose–Response and
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
+# 💼 Employments and Internships
+- *Apr 2023 - Apr 2025*, Biostatistician, Stanford University, Stanford, California, USA
+- *Jun 2022 - Sep 2022*, Data Science Intern, Stable, New York City, New York, USA
+- *Sep 2020 - Jul 2021*, Data Analysis Intern, PwC, Shanghai, China
+
 # 📖 Educations
-- *Oct 2025 - Present*, PhD in Biostatistics, University of Cambridge
-- *Sep 2021 - Feb 2023*, Master's in Statistics, Columbia University
-- *Sep 2018 - Jun 2020*, BS in Mathematics with Finance, University of Liverpool
-- *Sep 2016 - Jul 2018*, BS in Financial Mathematics, Xi'an Jiaotong-Liverpool University (XJTLU)
+- *Oct 2025 - Present*, PhD in Biostatistics, University of Cambridge, Cambridge, UK
+- *Sep 2021 - Feb 2023*, Master's in Statistics, Columbia University, New York City, New York, USA
+- *Sep 2018 - Jul 2020*, BS in Mathematics with Finance, University of Liverpool, Liverpool, UK
+- *Sep 2016 - Jul 2018*, BS in Financial Mathematics, Xi'an Jiaotong-Liverpool University (XJTLU), Suzhou, China
 
 # 🤖 Softwares
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-<!---
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
+- [A R Shiny Application for Monotonic Dose-Response and Curve-Free Designs in Phase I Dose-Finding Trials](https://cisd-stanford.shinyapps.io/CurveFreeDesigns/)
+- [A R Shiny Application for Optimal Two-Step Hybrid Design: A Framework for Equivalence Boundary Selection Under Type I Error and Power Constraints](https://cisd-stanford.shinyapps.io/OptimalHybridDesign/)
