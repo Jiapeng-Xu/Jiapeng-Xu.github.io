@@ -19,13 +19,13 @@ redirect_from:
 
 # 👨🏻‍💻 About Me
 
-Hi all, I am **Jiapeng Xu (徐佳鹏)**. I am currently a PhD candidate at the MRC Biostatistics Unit, University of Cambridge. Before starting my PhD, I worked as a Biostatistician in the Department of Biomedical Data Science Department at Stanford University, where I conducted two years of full-time research in **Clinical Trial Design** and found my true passion for this research area.
+Hi all, I am **Jiapeng Xu (徐佳鹏)**. I am currently a PhD candidate at the MRC Biostatistics Unit, University of Cambridge. Before starting my PhD, I worked as a Biostatistician in the Department of Biomedical Data Science at Stanford University, where I conducted two years of full-time research in **Clinical Trial Design** and found my true passion for this research area.
 
 I hold a Master's degree in Statistics from Columbia University and a Bachelor's degree in Financial Mathematics, jointly awarded by the University of Liverpool and Xi'an Jiaotong-Liverpool University (XJTLU).
 
-My research focus on **Clinical Trial Design**, particularly in areas such as **Early Phase Dose-Finding Designs**, **Adaptive Designs**, and **Historical Data Borrowing**. 
+My research focuses on **Clinical Trial Design**, particularly in areas such as **Early Phase Dose-Finding Designs**, **Adaptive Designs**, and **Historical Data Borrowing**. 
 
-The overall goal of my work is to develop novel and rigorous statistical methodologies that enhance the efficiency of clinical trials (i.e., reducing enrolled patients, duration and cost), thereby accelerating medical decision-making and ultimately benefiting patients in need.
+The overall goal of my work is to develop novel and rigorous statistical methodologies that enhance the efficiency of clinical trials (i.e., reducing enrolled patients, duration, and cost), thereby accelerating medical decision-making and ultimately benefiting patients in need.
 
 # 🔥 News
 
