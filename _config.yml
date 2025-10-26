@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiapeng Xu"
-description              : "PhD Candidate in the MRC Biostatistics Unit"
+description              : "PhD Candidate in the MRC Biostatistics Unit at University of Cambridge"
 repository               : "Jiapeng-Xu/Jiapeng-Xu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiapeng Xu"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/Image_JiapengXu.jpg"
   bio              : 
   location         : "Cambridge, UK"
-  employer         : "University of Cambridge"
+  employer         :
   pubmed           : 
   googlescholar    : 
   email            : "jx346@cam.ac.uk"

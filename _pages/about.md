@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi all, I am **Jiapeng Xu (徐佳鹏)**. I am currently a PhD candidate at the MRC Biostatistics Unit, University of Cambridge. Before starting my PhD, I worked as a Biostatistician in the Department of Biomedical Data Science Department at Stanford University, where I conducted two years of full-time research in **Clinical Trial Design** and found my true passion for this research area.
+
 I hold a Master's degree in Statistics from Columbia University and a Bachelor's degree in Financial Mathematics, jointly awarded by the University of Liverpool and Xi'an Jiaotong-Liverpool University (XJTLU).
 
 My research focus on **Clinical Trial Design**, particularly in areas such as **Early Phase Dose-Finding Designs**, **Adaptive Designs**, and **Historical Data Borrowing**. 
@@ -46,17 +47,23 @@ The overall goal of my work is to develop novel and rigorous statistical methodo
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+<!---
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Oct 2025 - Present*, PhD in Biostatistics, University of Cambridge
+- *Sep 2021 - Feb 2023*, Master's in Statistics, Columbia University
+- *Sep 2018 - Jun 2020*, BS in Mathematics with Finance, University of Liverpool
+- *Sep 2016 - Jul 2018*, Bs in Financial Mathematics, Xi'an Jiaotong-Liverpool University (XJTLU)
 
+<!---
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
