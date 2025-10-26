@@ -40,6 +40,11 @@ Coming Soon!
 
 Chang, C. T., Farah, H., Gui, H., Rezaei, S. J., Bou-Khalil, C., Park, Y. J., ... & **Xu, J.**, Daneshjou, R. (2025). [Red teaming ChatGPT in medicine to yield real-world insights on model behavior.](https://www.nature.com/articles/s41746-025-01542-0) *npj Digital Medicine*, 8(1), 149.
 
+Perez, L., Palenski, P., Adair, E., Contreras, L., Dorsonne, B., Hailu, A., ... & **Xu, J.**, Darnall, B. (2025). [Can We Treat 100 Individuals at Once? Online 1-Session Empowered Relief in a National Sample of Marfan Syndrome and Related Disease.](https://www.jpain.org/article/S1526-5900(25)00199-3/abstract) *The Journal of Pain*, 29.
+
+Darnall, B. D., Perez, L., Kao, M.-C., Lorig, K., Mardian, A. S., Flood, P., **Xu, J.**, et al. (Under review) Voluntary Patient-Centered Prescription Opioid Tapering and Comparative Effectiveness of Cognitive Behavioral Therapy and
+Chronic Pain Self-Management within the Context of Opioid Tapering: The EMPOWER study, *Lancet.*
+
 ## Book Chapters
 Fan, S., Lee, B. L., Lu, Y., & **Xu, J.** (2024). [Monotonic Dose–Response and Curve-Free Designs for Phase I Dose-Finding Trials.](https://link.springer.com/chapter/10.1007/978-3-031-67110-4_6) In *Dose Finding and Beyond in Biopharmaceutical Development* (pp. 127-160). Cham: Springer Nature Switzerland.
 
