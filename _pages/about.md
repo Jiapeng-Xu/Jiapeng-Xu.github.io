@@ -61,7 +61,7 @@ Fan, S., Lee, B. L., Lu, Y., & **Xu, J.** (2024). [Monotonic Dose–Response and
 
 # 📖 Educations
 - *Oct 2025 - Present*, PhD in Biostatistics, University of Cambridge
-- *Sep 2021 - Feb 2023*, Master's in Statistics, Columbia University
+- *Sep 2021 - Feb 2023*, MA in Statistics, Columbia University
 - *Sep 2018 - Jul 2020*, BS in Mathematics with Finance, University of Liverpool
 - *Sep 2016 - Jul 2018*, BS in Financial Mathematics, Xi'an Jiaotong-Liverpool University (XJTLU)
 
