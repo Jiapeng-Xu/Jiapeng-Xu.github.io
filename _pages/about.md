@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨🏻‍💻 About Me
 
-Hi all, I am **Jiapeng Xu (徐佳鹏)**. My MBTI is **INFJ**. I am currently a PhD candidate at the MRC Biostatistics Unit, University of Cambridge. I am supervised by Dr. Pavel Mozgunov and Dr. Thomas Jaki. Before starting my PhD, I worked as a Biostatistician, supervised by Dr. Ying Lu, in the Department of Biomedical Data Science at Stanford University. There, I conducted two years of full-time research in clinical trial design, where I discovered my true passion for this research area.
+Hi all, I am **Jiapeng Xu (徐佳鹏)**. My MBTI is **INFJ**. I am currently a PhD candidate at the MRC Biostatistics Unit, University of Cambridge. I am supervised by Dr. Pavel Mozgunov and Dr. Thomas Jaki. Before starting my PhD, I worked as a Biostatistician, supervised by Dr. Ying Lu, in the Department of Biomedical Data Science at Stanford University. There, I conducted two years of full-time research in clinical trial design and discovered my true passion for this research area.
 
 I hold a Master's degree in Statistics from Columbia University and a Bachelor's degree in Financial Mathematics, jointly awarded by the University of Liverpool and Xi'an Jiaotong-Liverpool University (XJTLU).
 
